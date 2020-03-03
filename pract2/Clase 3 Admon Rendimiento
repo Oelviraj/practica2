@@ -1,0 +1,4 @@
+Hay que investigar la administracion del rendimioento de FCAPS Admon de red.
+
+algunas de las opciones son , la carga del CPU, etc, y a largo plazo lo que vamos a hacer es monitorear la carga del cpu.
+SI se sobrepasa el uso de 75% por ejemplo del cpu, entponces ponemos un umbral y un disparador o mecanismo para solucionarlo
